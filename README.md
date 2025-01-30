@@ -3,6 +3,7 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
+[E- book-O-que-e-um-Bootcamp-Corporativo.pdf](https://github.com/user-attachments/files/18596796/E-.book-O-que-e-um-Bootcamp-Corporativo.pdf)
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
