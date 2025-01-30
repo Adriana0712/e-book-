@@ -78,10 +78,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="[https://github.com/felipeAguiarCode](https://github.com/Adriana0712/e-book-/edit/main/README.md)">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/BATISTA.ADRI.exe/">
     Instagram</a>
