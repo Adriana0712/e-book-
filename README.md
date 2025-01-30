@@ -76,9 +76,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAdriana Carvalho<br>
     &nbsp&nbsp&nbsp
-    <a href="[https://github.com/felipeAguiarCode](https://github.com/Adriana0712/e-book-/edit/main/README.md)">
+    <a href="(https://github.com/Adriana0712/e-book-/edit/main/README.md)">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 &nbsp;|&nbsp;
